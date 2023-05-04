@@ -1,4 +1,4 @@
-// C++ program to create calculator
+// C++ program to create calculator, created by Milorad Markov
 #include <iostream>
 using namespace std;
 
